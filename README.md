@@ -55,4 +55,4 @@ The model uses a CNN architecture with the following layers:
 
 ## Results
 
-The model achieves approximately 65-70% accuracy on the test set. 
+The model achieves approximately 58-61% accuracy on the test set. 
